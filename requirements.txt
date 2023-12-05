@@ -1,0 +1,33 @@
+torch-ema
+ninja
+trimesh
+opencv-python
+tensorboardX
+numpy 
+pandas
+tqdm
+matplotlib
+PyMCubes
+rich
+dearpygui
+packaging
+scipy
+scikit-learn
+
+face_alignment
+python_speech_features
+numba
+resampy
+pyaudio
+soundfile
+einops
+configargparse
+
+lpips
+imageio-ffmpeg
+
+# deformable field
+flax==0.3.4
+gin-config @ git+https://github.com/google/gin-config@243ba87b3fcfeb2efb4a920b8f19679b61a6f0dc
+immutabledict==2.2.0
+jax==0.2.20
